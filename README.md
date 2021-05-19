@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-<a href="https://rovae.in/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ravibhagyoday/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ravi@rovae.in"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mad_jack__/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCa3KUhB2pGjZG0-u2LdKYhg"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Youtube&logoColor=white"/></a>
+<a href="https://rovae.in/"><img src="https://img.shields.io/badge/-rovae.in-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ravibhagyoday/"><img src="https://img.shields.io/badge/-Ravi%20Bhagyoday-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ravi@rovae.in"><img src="https://img.shields.io/badge/-ravi@rovae.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/mad_jack__/"><img src="https://img.shields.io/badge/-@mad_jack__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCa3KUhB2pGjZG0-u2LdKYhg"><img src="https://img.shields.io/badge/-@Rovae%20Incorporation-1769FF?style=flat&logo=Youtube&logoColor=white"/></a>
 </p>
 
 
