@@ -27,7 +27,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Managing **<a href="https://www.meetup.com/awsugrjk/">AWS User Group Rajkot** as a Co-Organiser **@Amazon Web Services**<br>
+✔ I’m currently Managing **<a href="https://www.meetup.com/awsugrjk/">AWS User Group Rajkot</a>** as a Co-Organiser **@Amazon Web Services**<br>
 ✔ I’m currently learning **Zabbix**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Server Monitoring**<br>
